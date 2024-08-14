@@ -5,12 +5,12 @@ This is the official website of the **LimitIRSTD** dataset.
 ## 1. Dataset Description
 
 <p align="center"> <img src="figs/dataset.png" width="70%"> </p>
-Fig. 1. An illustration of LimitIRSTD dataset.<br><br>
+<p align="center">Fig. 1. An illustration of LimitIRSTD dataset.</p>
 
 LimitIRSTD dataset is consisted of seven public datasets SIRST-V2, IRSTD-1K, IRDST, NUDT-SIRST, NUDT-SIRST-Sea, NUDT-MIRSDT, Anti-UAV and a dataset developed by the team of National University of Defense Technology (NUDT), including simulated land-based and space-based data, and real manually annotated space-based data. As shown in Fig.~\ref{Fig-dataset}, the dataset contains images with various target shapes (e.g., point target, spotted target, extended target), wavelengths (e.g., near-infrared, shortwave infrared and thermal), image resolution (e.g., 256, 512, 1024, 3200, etc.), at varied imaging systems (e.g., land-based, aerial-based and space-based imaging systems). Figure 2 shows some example images of the training sets.
 
 <p align="center"> <img src="figs/example_data.png" width="70%"> </p>
-Fig. 2. Example images of LimitIRSTD dataset.<br><br>
+<p align="center">Fig. 2. Example images of LimitIRSTD dataset.</p>
 
 This dataset is used to evaluate the performance of infrared small target detection (IRSTD) under resource-limited conditions (e.g., Track 1: Weakly Supervised IRSTD Under Single Point Supervision, Track 2: Lightweight IRSTD Pixel-level Supervision). 
 
