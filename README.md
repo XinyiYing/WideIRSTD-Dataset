@@ -36,11 +36,11 @@ Please contact yingxinyi18@nudt.edu.cn if you have any questions.
 
     Code: [[Github]](https://github.com/XinyiYing/LESPS) 
     
-    Checkpoints: [[Baidu]](https://pan.baidu.com/s/1OkquXuwLztXJhto6cTRjtg?pwd=1113) [[Onedrive]](https://1drv.ms/u/s!AoFCxCGMfhW6qhrLIoDFdSCZhz7q?e=Q6cWM5)
+    Checkpoints: [[BaiduYun]](https://pan.baidu.com/s/1OkquXuwLztXJhto6cTRjtg?pwd=1113) [[Onedrive]](https://1drv.ms/u/s!AoFCxCGMfhW6qhrLIoDFdSCZhz7q?e=Q6cWM5)
 
   
 2. Track 2: Weighted Res-UNet for High-Quality Retina Vessel Segmentation
 
     Code: [[Github]](https://github.com/YeRen123455/ICPR-Track2-LightWeight) 
     
-    Checkpoints: [[Baidu]](https://pan.baidu.com/s/1RxdttZnZBhuPqQOCqUbbBw?pwd=hge6) [[Onedrive]](https://1drv.ms/u/c/90bf30fdc8dd9ee7/EVxOhbh2Z5hOmhuejKJRM80BJ4HYRSDUSCh0YQkwWt-R-w?e=FXL6ro)
+    Checkpoints: [[BaiduYun]](https://pan.baidu.com/s/1RxdttZnZBhuPqQOCqUbbBw?pwd=hge6) [[Onedrive]](https://1drv.ms/u/c/90bf30fdc8dd9ee7/EVxOhbh2Z5hOmhuejKJRM80BJ4HYRSDUSCh0YQkwWt-R-w?e=FXL6ro)
