@@ -14,9 +14,9 @@ WideIRSTD dataset consists of seven public datasets: SIRST-V2, IRSTD-1K, IRDST, 
 
 In LimitIRSTD challenge, this dataset is used to evaluate the performance of infrared small target detection (IRSTD) under resource-limited conditions (e.g., Track 1: Weakly Supervised IRSTD Under Single Point Supervision, Track 2: Lightweight IRSTD Pixel-level Supervision). 
 
-For track 1, "WideIRSTD-Full" dataset contains 6000 images with coarse point annotation (i.e., GT point is located around the centroid of the GT mask under Gaussian distribution) or training, and 500 images are used for test.
+For track 1, "WideIRSTD-Weak" dataset contains 6000 images with coarse point annotation (i.e., GT point is located around the centroid of the GT mask under Gaussian distribution) or training, and 500 images are used for test.
 
-For track 2, "WideIRSTD-Weak" dataset contains 9000 images with groundtruth (GT) mask annotation for training, and 2000 images are used for test.
+For track 2, "WideIRSTD-Full" dataset contains 9000 images with groundtruth (GT) mask annotation for training, and 2000 images are used for test.
 
 
 ## 2. Downloads
